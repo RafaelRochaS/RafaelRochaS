@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RafaelRochaS
-- 👀 I’m interested in distributed systems and backend technologies, mostly with NodeJS.
-- 🌱 I’m currently learning Distributed Systems with NodeJS.
-- 💞️ I’m looking to collaborate on backend projects running on the Node technology.
+- 👀 I’m interested in distributed systems and backend technologies, mostly with NodeJS/Go.
+- 🌱 I’m currently learning Distributed Systems with NodeJS and Algorithms and Data Structures with Go.
+- 💞️ I’m looking to collaborate on backend projects running on the Node technology or Go language.
 - 📫 How to reach me: https://www.linkedin.com/in/rafael-rocha-souza
 
 <!---
